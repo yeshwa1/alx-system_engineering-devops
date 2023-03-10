@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod IV
-
+telnet towel.blinkenlights.nl:
